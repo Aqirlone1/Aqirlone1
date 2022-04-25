@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aqirlone1
-- 👀 I’m interested in back end Development in java,jsp,servlet,jdbc 
+- 👀 I’m interested in back end Development in java,Elixir,Pheonix framework,Android Development.
 - Data Structure and algorithm ,Competative programming ...
 - 🌱 
 - 💞️ I’m looking to collaborate on web development...
