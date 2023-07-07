@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aqirlone1
 - 👀 I’m interested in Fullstack development.
--  Skills : Javascript, ReactJs, NOdeJs, MpngoDb, Express ,git , agile etc
+-  Skills : Javascript, ReactJs, ruby , ruby on rails, MongoDb, git , agile etc
 - 🌱 
 - 💞️ for collaboration ...
 - 📫 How to reach me 7006104514...aqirlone109@gmail.com
