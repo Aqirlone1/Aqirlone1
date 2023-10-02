@@ -3,7 +3,7 @@
 -  Skills : Javascript, ReactJs, ruby , ruby on rails, MongoDb, postgresql, git & github , agile etc
 - 🌱 
 - 💞️ for collaboration ...
-- 📫 How to reach me 7006104514...aqirlone109@gmail.com
+- 📫 How to reach me ...aqirlone109@gmail.com
 
 <!---
 Aqirlone1/Aqirlone1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
